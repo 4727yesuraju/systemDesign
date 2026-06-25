@@ -1,3 +1,3 @@
-## System Design Roadmap PDF
+# System Design Roadmap
 
-📄 [View Roadmap PDF](./assets/system-design.pdf)
+![System Design Roadmap](./assets/system-design_page.png)
