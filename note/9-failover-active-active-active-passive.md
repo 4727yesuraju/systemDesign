@@ -1,9 +1,3 @@
-📄 **File Name:**
-
-```text
-failover-active-active-active-passive.md
-```
-
 # Failover, Active-Active & Active-Passive
 
 ## 🤔 Why it's needed
